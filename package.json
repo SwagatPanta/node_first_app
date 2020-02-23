@@ -1,0 +1,23 @@
+{
+  "name": "node_first_app",
+  "version": "1.0.0",
+  "description": "npm_desc_swagat",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SwagatPanta/node_first_app.git"
+  },
+  "author": "swagat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SwagatPanta/node_first_app/issues"
+  },
+  "homepage": "https://github.com/SwagatPanta/node_first_app#readme",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "uniq": "^1.0.1"
+  }
+}
