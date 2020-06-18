@@ -1,5 +1,5 @@
 {
-  "chartInfo": true,
+  "chartInfo": "true",
   "clientId": "20020001",
   "dataView": "PMPM",
   "eligibilityType": [
@@ -7,10 +7,11 @@
     "medical",
     "vision"
   ],
-  "page": "1",
-  "pageSize": "50",
+  "page": 1,
+  "pageSize": 50,
   "phiCEDate": "04-30-2020",
   "phiCSDate": "05-01-2015",
+  "printQuery": "true",
   "report": "physicianPracticeEfficiency",
   "reportFilter": {
     "groupId": [
@@ -26,6 +27,5 @@
     "reservedLoaField2"
   ],
   "service": "report",
-  "clientName": "crdemo",
-  "printQuery": true
+  "clientName": "customer4"
 }
