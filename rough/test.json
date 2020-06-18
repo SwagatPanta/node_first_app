@@ -1,0 +1,31 @@
+{
+  "chartInfo": true,
+  "clientId": "20020001",
+  "dataView": "PMPM",
+  "eligibilityType": [
+    "dental",
+    "medical",
+    "vision"
+  ],
+  "page": "1",
+  "pageSize": "50",
+  "phiCEDate": "04-30-2020",
+  "phiCSDate": "05-01-2015",
+  "report": "physicianPracticeEfficiency",
+  "reportFilter": {
+    "groupId": [
+      "ACX03",
+      "679"
+    ]
+  },
+  "reportingBasis": "PaidDate",
+  "reportingFrom": "2019-04-01",
+  "reportingTo": "2020-03-31",
+  "requiredLOAs": [
+    "reservedLoaField1",
+    "reservedLoaField2"
+  ],
+  "service": "report",
+  "clientName": "crdemo",
+  "printQuery": true
+}
